@@ -36,4 +36,4 @@ All-in-one **Todoist Spark** workspace solution featuring document editing, task
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion. 
+> This repository is provided for educational and utility purposes only. Use at your own discretion.  
